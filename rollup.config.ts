@@ -7,7 +7,7 @@ import json from 'rollup-plugin-json'
 
 const pkg = require('./package.json')
 
-const libraryName = 'kami-flash'
+const libraryName = 'kami-modal'
 
 export default {
   input: `src/${libraryName}.ts`,
